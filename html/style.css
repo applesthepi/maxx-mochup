@@ -1,0 +1,43 @@
+#header {
+	display: inline-block;
+}
+
+#banner {
+	object-fit: cover;
+	height: 500px;
+}
+
+#portfolio {
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;
+	flex-wrap: nowrap;
+	flex-basis: 20%;
+	justify-content: center;
+	flex-shrink: 3;
+}
+
+.logo {
+
+}
+
+.title {
+}
+
+.project {
+	margin: 16px;
+}
+
+.project-header {
+	border-color: #0D4B6E;
+	border-width: 4px 0px 8px 0px;
+	border-style: solid;
+
+	margin-top: 32px;
+	margin-bottom: 32px;
+	text-align: center;
+}
+
+.project-image {
+
+}
